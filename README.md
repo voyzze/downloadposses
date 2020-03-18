@@ -46,4 +46,7 @@
 
 - 由于电脑录屏有点问题，便用手机设备录影
 
-![video](video.mp4 "video.mp4")
+<video id="video" controls="" preload="none">
+    <source id="mp4" src="C:/Users/hp/Documents/WeChat Files/QiulinruEXO/FileStorage/Video/2020-03/video.mp4" type="video/mp4">
+</video>
+
