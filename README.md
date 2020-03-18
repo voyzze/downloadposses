@@ -44,5 +44,6 @@
 
 ![final](final.png "final.png")
 
-- 由于电脑录屏有点问题，便有手机设备录影
-<iframe width="560" height="315" src="video.mp4" frameborder="0" allowfullscreen></iframe>
+- 由于电脑录屏有点问题，便用手机设备录影
+
+![video](video.mp4 "video.mp4")
