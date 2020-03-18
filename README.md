@@ -44,7 +44,5 @@
 
 ![final](final.png "final.png")
 
-- 由于电脑录屏有点问题，便用手机设备录影
 
-<iframe height=498 width=510 src="video.mp4">
 
