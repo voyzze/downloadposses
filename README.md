@@ -46,5 +46,5 @@
 
 - 由于电脑录屏有点问题，便用手机设备录影
 
-<iframe height=498 width=510 src="C:/Users/hp/Desktop/video.mp4">
+<iframe height=498 width=510 src="video.mp4">
 
